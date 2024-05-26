@@ -1,5 +1,4 @@
 import pyDes
-import os
 
 class FileEncrypter:
     def __init__(self, key, is_3des=False):
